@@ -1,0 +1,3 @@
+They are all split into 50 page pdfs
+I recomend using qpdf to put them back together
+qpdf --empty --pages file1.pdf file2.pdf file3.pdf -- output.pdf
