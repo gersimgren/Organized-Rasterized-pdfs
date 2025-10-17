@@ -25,4 +25,4 @@ qpdf input.pdf --pages . 4-6 -- part2.pdf   # pages 4 to 6
 **To put you pdfs back together**
 qpdf --empty --pages file1.pdf file2.pdf file3.pdf -- output.pdf
 
-**Bash script is used to auto seperate pdfs**
+**Bash script is used to auto separate pdfs**
