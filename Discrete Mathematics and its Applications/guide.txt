@@ -1,0 +1,2 @@
+Each pdf contains 50 pages from the book
+qpdf is a good tool to put them back together
